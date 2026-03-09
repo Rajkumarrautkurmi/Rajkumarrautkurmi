@@ -1,18 +1,17 @@
-## Hi there 👋
+# 💫 Hi 👋, I'm Raj kumar raut kurmi
+**An aspiring AI & Machine Learning Engineer | Full Stack Developer
 
-<!--
-**Rajkumarrautkurmi/Rajkumarrautkurmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email Me 👉 ✉️ **rajkumarrautkurmi801941@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** AI/ ML projects and Full Stack Web Applications 
+- 🌱 **I’m currently learning:** AI automation
+- 👯 **I’m looking to collaborate on:** AI/ML projects, Open Source, and Full Stack Applications
+- 🤔 **I’m looking for help with:** Improving ML models and real-world AI applications
+- 💬 **Ask me about:** Python, Machine Learning and Web Development
+- 📫 **How to reach me:** rajkumarraut_kurmi@srmap.edu.in
+- 😄 **Pronouns:** Raj
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ## 🌐 Socials:
@@ -26,8 +25,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
