@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Raj kumar raut kurmi
-**An aspiring AI & Machine Learning Engineer | Full Stack Developer
+**AI & Machine Learning Enthusiast | Full Stack Developer | Building real-world projects.
 
 Email Me 👉 ✉️ **rajkumarrautkurmi801941@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
